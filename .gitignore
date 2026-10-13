@@ -1,3 +1,10 @@
 .vs
 .vs/
 .txt
+/bin
+bin/
+/obj
+obj/
+
+**/bin
+**/obj
