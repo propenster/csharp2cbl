@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bIzPWfLgi2E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faith\\source\\repos\\csharp2cbl\\csharp2cbl\\csharp2cbl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faith\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
+    "C:\\Users\\faith\\.nuget\\packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
+    "C:\\Users\\faith\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.9.0\\microsoft.codeanalysis.csharp.5.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

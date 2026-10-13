@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="csharp2cbl/csharp2cbl.csproj" />
+  <Project Path="tests/tests.csproj" Id="4a743109-11e9-4cf0-b7b7-3b5e8ef072f2" />
+</Solution>
